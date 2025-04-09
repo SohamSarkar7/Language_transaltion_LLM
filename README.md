@@ -1,5 +1,7 @@
 ## YOUR LANGUAGE LLM
 
+#### *** This is a localhost app you can clone and use this repo
+
 this is a llm app where you get your answer base of your preffered language , this has 6 types eg:- "Bengali","English","Hindi","Urdu","French","Spanish"
 language options to change your answer in this specific languages 
 
